@@ -1,0 +1,141 @@
+{
+    "botOwner": "952277585369383112",
+    "guildID": "1015915361050312784",
+    "VoiceChannelID": "1015956700278308924",
+    "cmdChannel": "1013099166685200474",
+    "taglıAlım": false,
+    "iltifatSystem": true,
+    "dmMessages": true,
+    "coinSystem": false,
+    "gifSystem": false,
+    "botConfig": {
+        "game": [
+            "⍫ Valtenia Developer By Kevzyy",
+            "Kevzyy 🖤 ⍫ Valtenia"
+        ],
+        "type": "LISTENING",
+        "status": "idle"
+    },
+    "chat": "1015955006031155220",
+    "teams": [""],
+    "publicParent": "1015961622512152626",
+    "sleepRoom": "1016077829298983023",
+    "publicParents": ["1015961622512152626"],
+    "registerParents": ["1015946839398305812"],
+    "solvingParents": ["1015958799410012251"],
+    "privateParents": ["1016044457919008969"],
+    "aloneParents": [""],
+    "funParents": ["1015962049798479953","1015960972374052885"],
+    "ignoreChannels": [],
+    "rankLog": "",
+    "staffs": ["1015919533690724402"],
+    "messageCount": 1,
+    "messageCoin": 5,
+    "voiceCount": 1,
+    "voiceCoin": 10,
+    "publicCoin": 15,
+    "taggedCoin": 20,
+    "specialRoles": {
+        "vip": ["1015919818790141992"],
+      "sponsor": ["1015919817972273192"],
+      "musical": "1015919820358832169"
+        
+    },
+    "registration": {
+        "voiceChannel": "1015947326944198666",
+        "channel": "1015946911406096394",
+        "suspectChannel": "1016046220826906634",
+        "bannedTagChannel": "1016045703006531584",
+        "brace": " | ",
+        "staffs": ["1015919533690724402"],
+        "manRoles": ["1015920673597689936","1015920696154660944"],
+        "womanRoles": ["1015920516793643130","1015920621244387368"],
+        "unregRoles": ["1015922060427534428"],
+        "suspectRoles": ["1015921372943351848"],
+        "bannedTagRoles": ["1015921312188862514"]
+    },
+    "colors": {
+        "renk_mavi": "#0f0066",
+        "renk_kırmızı": "#ff0000",
+        "renk_sarı": "#fcff00",
+        "renk_yesil": "#00ff35",
+        "renk_pembe": "#e800ff",
+        "renk_siyah": "#020202",
+        "renk_mor": "#220042",
+        "renk_mavi2": "#00d7fa"
+    },
+    "tag": {
+        "role": "1015920482144485397",
+        "log": "",
+        "tag": [ "⍫" ],
+        "tag2": [ "•" ]
+    },
+    "invite": {
+        "channel": "1015946999658446878",
+        "log": "1013099165078781992"
+    },
+    "penals": {
+        "ban": {
+            "staffs": ["1015922457238048828"],
+            "log": "1010990171765878912",
+            "limit": 3
+        },
+        "jail": {
+            "staffs": ["1015922458127253606"],
+            "roles": ["1015921277682323496"],
+            "log": "1013099990270353408",
+            "limit": 3
+        },
+        "chatMute": {
+            "staffs": ["1015922456386601020"],
+            "roles": ["1015921232539045908"],
+            "log": "1010990171765878911",
+            "limit": 3
+        },
+        "voiceMute": {
+            "staffs": ["1015922456386601020"],
+            "roles": ["1015921205745831936"],
+            "log": "1010990171765878913",
+            "limit": 3
+        },
+        "warn": {
+            "staffs": ["1015922458127253606"],
+            "roles": [
+                {
+                    "warnCount": 1,
+                    "role": ""
+                }
+            ],
+            "log": ""
+        },
+        "role": {
+            "log": "1013099159986896896"
+        }
+    },
+    "emojis": {
+        "mark": "<a:green:1013176463257772042>",
+        "cross": "<a:red:1013176493377081467>",
+        "coin": "<a:coin:947224814853169222>",
+        "fillStart": "<a:fillEnd:947226321489125536>",
+        "fill": "<a:fill:947226330347503656>",
+        "fillEnd": "<a:fillStart:947226339121979453>",
+        "emptyStart": "<:emptyEnd:947226264631148604>",
+        "empty": "<:empty:947226296394584095>",
+        "emptyEnd": "<:emptyStart:947226306494480456>"
+    },
+    "logs": {
+        "voiceLog": "1013099163656933396",
+        "messageLog": "1013099162381844481",
+        "blacklistLog": "1013099158695051354"
+    },
+    "asd": {
+        "boosterRole": "1015962876248338443"
+    },
+    "meeting": {
+        "channel": "946282762506215458",
+        "log": "947224825297010718",
+        "attendt": "946282760803340302",
+        "attend": "946282760803340300",
+        "excused": "946282760803340301"
+    }
+}

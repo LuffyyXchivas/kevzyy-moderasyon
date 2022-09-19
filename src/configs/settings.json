@@ -1,0 +1,8 @@
+{
+  "token": "",
+  "prefix": ["!","."],
+  "mongoUrl": "mongodb+srv://kevzyy:egei5241@cluster0.xcgdh.mongodb.net/?retryWrites=true&w=majority",
+
+  "owners": ["952277585369383112"],
+  "blacklist": ["995407052979572806"]
+}
